@@ -5,7 +5,7 @@
 
 * ссылка на гугл-док c текстом ВКР, расшаренный для ilia.gossoudarev@gmail.com
 
-(Ссылка) [https://docs.google.com/document/d/1TAhKUVOxCuZzkOARUawvVgjM8arRprWQ5Mc_mwjxeJQ/edit#heading=h.gjdgxs]
+[Ссылка на документ](https://docs.google.com/document/d/1TAhKUVOxCuZzkOARUawvVgjM8arRprWQ5Mc_mwjxeJQ/edit#heading=h.gjdgxs)
 
 * ccылка на ролик в youtube с кратким (5 минут) представлением результатов ВКР по слайдам (слайдкаст)
 * PDF и/или shower со слайдами
